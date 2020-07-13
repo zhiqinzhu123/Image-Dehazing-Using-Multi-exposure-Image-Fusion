@@ -6,16 +6,17 @@ Haze can seriously affect the visible and visual quality of outdoor images. As a
 
 
 Source Code of Article IEEE SENSORS JOURNAL “Image Dehazing by An Artificial Image Fusion Method based on Adaptive Structure Decomposition” 
+If you use this code for research, pls cite "M. Zheng, G. Qi, Z. Zhu, Y. Li, H. Wei and Y. Liu, "Image Dehazing by an Artificial Image Fusion Method Based on Adaptive Structure Decomposition," in IEEE Sensors Journal, vol. 20, no. 14, pp. 8062-8072, 15 July15, 2020, doi: 10.1109/JSEN.2020.2981719."
 
 @ARTICLE{9040575,
   author={M. {Zheng} and G. {Qi} and Z. {Zhu} and Y. {Li} and H. {Wei} and Y. {Liu}},
   journal={IEEE Sensors Journal}, 
-  title={Image Dehazing by An Artificial Image Fusion Method based on Adaptive Structure Decomposition}, 
+  title={Image Dehazing by an Artificial Image Fusion Method Based on Adaptive Structure Decomposition}, 
   year={2020},
-  volume={},
-  number={},
-  pages={1-1},
-  }
+  volume={20},
+  number={14},
+  pages={8062-8072},}
+
   
 Research use only, please cite DOI:10.1109/JSEN.2020.2981719
 
